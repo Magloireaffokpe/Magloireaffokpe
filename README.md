@@ -75,6 +75,10 @@ Goal: make AI usable by non-technical users.
 
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Magloireaffokpe/Magloireaffokpe/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+
 ---
 
 ## Connect

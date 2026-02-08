@@ -61,22 +61,24 @@ Goal: make AI usable by non-technical users.
 
 ## GitHub Activity
 
-<div align="center">
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Magloireaffokpe&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Magloireaffokpe&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="150"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Magloireaffokpe&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magloireaffokpe&layout=compact&theme=transparent&hide_border=true" height="150"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Magloireaffokpe&theme=dark&hide_border=true)
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/Magloireaffokpe/Magloireaffokpe/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
 
-</div>
+<img src="https://streak-stats.demolab.com?user=Magloireaffokpe&theme=transparent&hide_border=true"/>
+
+</p>
 
 ---
 
 ## Connect
 
-📧 [magloireaffokpe777@gmail.com]
-💼 [https://www.linkedin.com/in/magloire-affokpe-26a693360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-🌐 [https://foliocraft-frontend.vercel.app/]
+- 📧 magloireaffokpe777@gmail.com
+- 💼 https://www.linkedin.com/in/magloire-affokpe-26a693360
+- 🌐 https://foliocraft-frontend.vercel.app

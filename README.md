@@ -4,11 +4,7 @@ I build complete web applications powered by modern technologies and AI capabili
 
 <p align="center">
   <a href="https://github.com/Magloireaffokpe">
-    <img src="https://img.shields.io/github/followers/Magloireaffokpe?label=Follow&style=social" alt="GitHub Follow"/>
-  </a>
-  <a href="https://wa.me/2290167518712">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+    <img src="https://img.shields.io/badge/Follow-@Magloireaffokpe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow"/>
 </p>
 
 ---
@@ -98,10 +94,20 @@ I build end-to-end systems that connect:
 
 ## Connect
 
-- 📧 [magloireaffokpe777@gmail.com](mailto:magloireaffokpe777@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/magloire-affokpe-26a693360)
-- 🌐 [Portfolio](https://foliocraft-frontend.vercel.app)
-- 💬 [WhatsApp](https://wa.me/2290167518712)
+<p align="center">
+  <a href="mailto:magloireaffokpe777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/magloire-affokpe-26a693360">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://foliocraft-frontend.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://wa.me/2290167518712">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
 ---
 

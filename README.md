@@ -1,4 +1,4 @@
-# 👋 Magloire AFFOKPE — Full Stack & AI Developer
+# 👋 Magloire AFFOKPE — AI Engineer/Data Scientist | Full-Stack Developer
 
 I build complete web applications powered by modern technologies and AI capabilities.
 

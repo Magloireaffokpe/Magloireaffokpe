@@ -1,4 +1,7 @@
-<h1 align="center">👋 Magloire AFFOKPE</h1>
+<h1 align="center">
+  <img src="https://api.iconify.design/mdi/hand-wave.svg?color=%23F5B700" width="34" alt=""/>
+  Magloire AFFOKPE
+</h1>
 
 <p align="center">
   <b>AI Engineer / Data Scientist · Full-Stack Developer</b><br/>
@@ -7,62 +10,73 @@
 
 <p align="center">
   <a href="https://github.com/Magloireaffokpe"><img src="https://img.shields.io/github/followers/Magloireaffokpe?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Follow on GitHub"/></a>
-  <a href="https://magloireaffokpe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/magloire-affokpe-26a693360"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## 🧭 What I Work On
+## <img src="https://api.iconify.design/mdi/briefcase-outline.svg?color=%2358A6FF" width="26" alt=""/> What I Work On
 
-- 🌐 Full-stack web applications with **React** and **Django**
-- 🔌 RESTful APIs and backend architecture
-- 🗄️ Database design with **PostgreSQL**
-- 🤖 AI/ML integration in production apps
-- 👁️ Computer vision, NLP and speech recognition
+- <img src="https://api.iconify.design/mdi/web.svg?color=%2358A6FF" width="18" alt=""/> Full-stack web applications with **React** and **Django**
+- <img src="https://api.iconify.design/mdi/api.svg?color=%2358A6FF" width="18" alt=""/> RESTful APIs and backend architecture
+- <img src="https://api.iconify.design/mdi/database-outline.svg?color=%2358A6FF" width="18" alt=""/> Database design with **PostgreSQL**
+- <img src="https://api.iconify.design/mdi/robot-outline.svg?color=%2358A6FF" width="18" alt=""/> AI/ML integration in production apps
+- <img src="https://api.iconify.design/mdi/eye-outline.svg?color=%2358A6FF" width="18" alt=""/> Computer vision, NLP and <img src="https://api.iconify.design/mdi/microphone-outline.svg?color=%2358A6FF" width="18" alt=""/> speech recognition
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/mdi/tools.svg?color=%2358A6FF" width="26" alt=""/> Tech Stack
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?perline=8&i=react,nextjs,ts,tailwind,qt" height="44" alt="React, Next.js, TypeScript, Tailwind CSS, Qt"/> <img src="https://cdn.simpleicons.org/daisyui" height="44" alt="DaisyUI" title="DaisyUI"/></td>
+    <td width="20%" align="center"><b>Frontend</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?perline=8&i=react,nextjs,ts,tailwind,qt" height="48" alt="React, Next.js, TypeScript, Tailwind CSS, Qt" title="React · Next.js · TypeScript · Tailwind CSS · Qt"/>
+      <img src="https://cdn.simpleicons.org/daisyui" height="48" alt="DaisyUI" title="DaisyUI"/>
+    </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?perline=8&i=django,fastapi,nodejs" height="44" alt="Django, FastAPI, Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="44" alt="Django REST Framework" title="Django REST Framework"/></td>
+    <td width="20%" align="center"><b>Backend</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?perline=8&i=django,fastapi,nodejs" height="48" alt="Django, FastAPI, Node.js" title="Django · FastAPI · Node.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="48" alt="Django REST Framework" title="Django REST Framework"/>
+    </td>
   </tr>
   <tr>
-    <td><b>AI / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?perline=8&i=py,pytorch,tensorflow,sklearn,opencv" height="44" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV"/> <img src="https://cdn.simpleicons.org/huggingface" height="44" alt="Hugging Face" title="Hugging Face"/></td>
+    <td width="20%" align="center"><b>AI / ML</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?perline=8&i=py,pytorch,tensorflow,sklearn,opencv" height="48" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV" title="Python · PyTorch · TensorFlow · scikit-learn · OpenCV"/>
+      <img src="https://cdn.simpleicons.org/huggingface" height="48" alt="Hugging Face" title="Hugging Face"/>
+    </td>
   </tr>
   <tr>
-    <td><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?perline=8&i=postgres,mongodb,sqlite" height="44" alt="PostgreSQL, MongoDB, SQLite"/></td>
+    <td width="20%" align="center"><b>Database</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?perline=8&i=postgres,mongodb,sqlite" height="48" alt="PostgreSQL, MongoDB, SQLite" title="PostgreSQL · MongoDB · SQLite"/>
+    </td>
   </tr>
   <tr>
-    <td><b>DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?perline=8&i=git,docker,linux,vercel" height="44" alt="Git, Docker, Linux, Vercel"/></td>
+    <td width="20%" align="center"><b>DevOps & Tools</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?perline=8&i=git,docker,linux,vercel" height="48" alt="Git, Docker, Linux, Vercel" title="Git · Docker · Linux · Vercel"/>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Selected Projects
+## <img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%2358A6FF" width="26" alt=""/> Selected Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 💰 **Financial Management App** | Full-stack transaction tracker with real-time balance calculations | Next.js 16, React 19, Django REST, PostgreSQL, Tailwind CSS |
-| 📄 **Document Processing System** | Automated text extraction and classification using NLP techniques | Python, OpenCV, Django, REST APIs |
-| 🔍 **Object Detection Application** | Real-time image analysis with computer vision and deep learning | OpenCV, TensorFlow, FastAPI, React |
-| 🌐 **ML-Integrated Web Platform** | Django backend connected to a React interface serving AI model predictions | Django, React, PostgreSQL, scikit-learn |
-| 📊 **Data Analysis Toolkit** | Utilities for processing datasets and applying machine learning algorithms | Python, Pandas, NumPy, Matplotlib |
+| | Project | Description | Tech |
+|:---:|---|---|---|
+| <img src="https://api.iconify.design/mdi/finance.svg?color=%2358A6FF" width="22" alt=""/> | **Financial Management App** | Full-stack transaction tracker with real-time balance calculations | Next.js 16, React 19, Django REST, PostgreSQL, Tailwind CSS |
+| <img src="https://api.iconify.design/mdi/file-document-outline.svg?color=%2358A6FF" width="22" alt=""/> | **Document Processing System** | Automated text extraction and classification using NLP techniques | Python, OpenCV, Django, REST APIs |
+| <img src="https://api.iconify.design/mdi/image-search-outline.svg?color=%2358A6FF" width="22" alt=""/> | **Object Detection Application** | Real-time image analysis with computer vision and deep learning | OpenCV, TensorFlow, FastAPI, React |
+| <img src="https://api.iconify.design/mdi/web.svg?color=%2358A6FF" width="22" alt=""/> | **ML-Integrated Web Platform** | Django backend connected to a React interface serving AI model predictions | Django, React, PostgreSQL, scikit-learn |
+| <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2358A6FF" width="22" alt=""/> | **Data Analysis Toolkit** | Utilities for processing datasets and applying machine learning algorithms | Python, Pandas, NumPy, Matplotlib |
 
 ---
 
-## 💡 Development Philosophy
+## <img src="https://api.iconify.design/mdi/lightbulb-on-outline.svg?color=%2358A6FF" width="26" alt=""/> Development Philosophy
 
 I build end-to-end systems that connect:
 
@@ -75,7 +89,7 @@ I build end-to-end systems that connect:
 
 ---
 
-## 📈 GitHub Activity
+## <img src="https://api.iconify.design/mdi/chart-line.svg?color=%2358A6FF" width="26" alt=""/> GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Magloireaffokpe&theme=transparent&hide_border=true" alt="GitHub streak (public and private contributions)"/>
@@ -96,13 +110,16 @@ I build end-to-end systems that connect:
 
 ---
 
-## 📫 Connect
+## <img src="https://api.iconify.design/mdi/account-network-outline.svg?color=%2358A6FF" width="26" alt=""/> Connect
 
 <p align="center">
-  <a href="mailto:magloireaffokpe777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/magloire-affokpe-26a693360"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://magloireaffokpe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://wa.me/2290167518712"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="mailto:magloireaffokpe777@gmail.com" title="Gmail"><img src="https://api.iconify.design/logos/google-gmail.svg" height="40" alt="Gmail"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/magloire-affokpe-26a693360" title="LinkedIn"><img src="https://api.iconify.design/logos/linkedin-icon.svg" height="40" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="https://magloireaffokpe.vercel.app" title="Portfolio"><img src="https://api.iconify.design/mdi/web.svg?color=%2358A6FF" height="40" alt="Portfolio"/></a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/2290167518712" title="WhatsApp"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" height="40" alt="WhatsApp"/></a>
 </p>
 
 <p align="center"><i>Open to collaborations and interesting projects!</i></p>

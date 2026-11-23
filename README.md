@@ -26,38 +26,33 @@
 
 ## <img src="https://api.iconify.design/mdi/tools.svg?color=%2358A6FF" width="26" alt=""/> Tech Stack
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="20%" align="center"><b>Frontend</b></td>
-    <td width="80%">
-      <img src="https://skillicons.dev/icons?perline=8&i=react,nextjs,ts,tailwind,qt" height="48" alt="React, Next.js, TypeScript, Tailwind CSS, Qt" title="React · Next.js · TypeScript · Tailwind CSS · Qt"/>
-      <img src="https://cdn.simpleicons.org/daisyui" height="48" alt="DaisyUI" title="DaisyUI"/>
-    </td>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>AI / ML</th>
+    <th>Database</th>
+    <th>DevOps & Tools</th>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>Backend</b></td>
-    <td width="80%">
-      <img src="https://skillicons.dev/icons?perline=8&i=django,fastapi,nodejs" height="48" alt="Django, FastAPI, Node.js" title="Django · FastAPI · Node.js"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="48" alt="Django REST Framework" title="Django REST Framework"/>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js"/> <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript"/><br/>
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS"/> <img src="https://skillicons.dev/icons?i=qt" height="40" alt="Qt" title="Qt"/> <img src="https://cdn.simpleicons.org/daisyui" height="40" alt="DaisyUI" title="DaisyUI"/>
     </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center"><b>AI / ML</b></td>
-    <td width="80%">
-      <img src="https://skillicons.dev/icons?perline=8&i=py,pytorch,tensorflow,sklearn,opencv" height="48" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV" title="Python · PyTorch · TensorFlow · scikit-learn · OpenCV"/>
-      <img src="https://cdn.simpleicons.org/huggingface" height="48" alt="Hugging Face" title="Hugging Face"/>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" title="Django"/> <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI"/> <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="40" alt="Django REST Framework" title="Django REST Framework"/>
     </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center"><b>Database</b></td>
-    <td width="80%">
-      <img src="https://skillicons.dev/icons?perline=8&i=postgres,mongodb,sqlite" height="48" alt="PostgreSQL, MongoDB, SQLite" title="PostgreSQL · MongoDB · SQLite"/>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python"/> <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch"/> <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" title="TensorFlow"/><br/>
+      <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="scikit-learn" title="scikit-learn"/> <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" title="OpenCV"/> <img src="https://cdn.simpleicons.org/huggingface" height="40" alt="Hugging Face" title="Hugging Face"/>
     </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center"><b>DevOps & Tools</b></td>
-    <td width="80%">
-      <img src="https://skillicons.dev/icons?perline=8&i=git,docker,linux,vercel" height="48" alt="Git, Docker, Linux, Vercel" title="Git · Docker · Linux · Vercel"/>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL"/> <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB"/> <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" title="SQLite"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker"/> <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux"/><br/>
+      <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" title="Vercel"/>
     </td>
   </tr>
 </table>

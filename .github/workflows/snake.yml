@@ -2,29 +2,37 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # toutes les 12h
-  workflow_dispatch:
+    - cron: "17 */6 * * *"   # toutes les 6 h, à la 17e minute (les heures pile sont saturées et retardées)
+  push:
+    branches: [main]         # régénère aussi à chaque modification du profil
+  workflow_dispatch:         # bouton « Run workflow » pour forcer une mise à jour
 
 permissions:
   contents: write
 
+concurrency:                 # une seule génération à la fois
+  group: snake
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Generate snake animation
+      - name: Generate snake animation (light + dark)
         uses: Platane/snk@v3
         with:
-          github_user_name: Magloireaffokpe
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake
+      - name: Push snake to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

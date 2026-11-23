@@ -25,13 +25,28 @@
 
 ## 🛠️ Tech Stack
 
-| Domain | Tools |
-|---|---|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) |
-| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST-A30000?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) |
-| **AI / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) |
+<table align="center">
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?perline=8&i=react,nextjs,ts,tailwind,qt" height="44" alt="React, Next.js, TypeScript, Tailwind CSS, Qt"/> <img src="https://cdn.simpleicons.org/daisyui" height="44" alt="DaisyUI" title="DaisyUI"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?perline=8&i=django,fastapi,nodejs" height="44" alt="Django, FastAPI, Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="44" alt="Django REST Framework" title="Django REST Framework"/></td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?perline=8&i=py,pytorch,tensorflow,sklearn,opencv" height="44" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV"/> <img src="https://cdn.simpleicons.org/huggingface" height="44" alt="Hugging Face" title="Hugging Face"/></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?perline=8&i=postgres,mongodb,sqlite" height="44" alt="PostgreSQL, MongoDB, SQLite"/></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?perline=8&i=git,docker,linux,vercel" height="44" alt="Git, Docker, Linux, Vercel"/></td>
+  </tr>
+</table>
 
 ---
 
